@@ -3,4 +3,4 @@ var currentUser ="rithi"
 
 var welcomeMessage = "Welcome to Klossybook, " + currentUser + "!"
 
-var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " +  + "!"
+var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " + currentUsertoUpperCase() + "!"
