@@ -1,3 +1,5 @@
 // Write your code in this file!
-var currentUser
+var currentUser ="rithi"
+
+
 
